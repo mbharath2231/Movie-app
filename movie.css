@@ -19,6 +19,11 @@ header{
     justify-content: flex-end;
     background-color: var(--secondary-color);
 }
+.news{
+    font-size: 20px;
+    padding-right: 30px;
+    text-decoration: none;
+}
 .search{
     background-color: transparent;
     border: 2px solid var(--primary-color);
